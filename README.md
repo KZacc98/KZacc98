@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KZacc98
-- 👀 I’m interested in mobile app development, mostly java/androidstudio, but currently I'm fascinated with swift
+- 👀 I’m interested in mobile app development, mostly java/androidstudio, but currently swift is my bestie
 - 🌱 I’m currently learning swift and its going "swiftly",cocidering past experiences with android studio 🤡
 - 💞️ I’m looking to collaborate on something iOS-Development/react-Development related
 - 📫 How to reach me: TBD
