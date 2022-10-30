@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KZacc98
-- 👀 I’m interested in mobile app development, mostly java/androidstudio, but currently swift is my bestie
-- 🌱 I’m currently learning swift and its going "swiftly",cocidering past experiences with android studio 🤡
-- 💞️ I’m looking to collaborate on something iOS-Development/react-Development related
+- 👀 I’m interested in mobile app development, using swift 
+- 🌱 I’m currently working on my Engineer's Thesis using GraphQL, Apollo, Prisma, PostgreSQL and Swift
+- 💞️ I’m looking to collaborate on something iOS related
 - 📫 How to reach me: TBD
 
 <!---
