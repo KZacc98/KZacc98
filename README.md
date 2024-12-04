@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KZacc98
 - 👀 I’m interested in mobile app development for Apple platforms, using Swift and UIKit.
-- 🌱 Slowly but surely building my SwiftUI Skills
+- 🌱 Currently focused on building my SwiftUI Skills
 <!---
 - 🌱 I’m currently working on my Engineer's Thesis using GraphQL, Apollo, Prisma, PostgreSQL and Swift
 - 💞️ I’m looking to collaborate on something iOS related
