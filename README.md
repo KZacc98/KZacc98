@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KZacc98
 - 👀 I’m interested in mobile app development for Apple platforms, using Swift and UIKit.
 - 🌱 Currently focused on building my SwiftUI Skills
-- 👨🏼‍💻 Currently working on a "Recipe suggestions" app built using SwiftUI and utilizing Core Data for persistance as well as Google Gemini AI API
+- 👨🏼‍💻 Currently working on a "Recipe suggestions" app built using SwiftUI and utilizing Core Data for persistance, Google Gemini AI API, as well as "goofin' around" with whatever framework/API i find interesting to build some additional skills
 <!---
 - 🌱 I’m currently working on my Engineer's Thesis using GraphQL, Apollo, Prisma, PostgreSQL and Swift
 - 💞️ I’m looking to collaborate on something iOS related
